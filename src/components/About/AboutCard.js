@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Armin Habiban </span>
-            from <span className="purple">Mashhad,Iran</span>
+            from <span className="purple">Sydney,Australia</span>
             <br /> I graduated from Azad University of Mashhad in the field of programming in 2020
             
             <br />
